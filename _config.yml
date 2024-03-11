@@ -121,18 +121,10 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Introduction Video
+  url: https://www.macvideo.ca/media/LUE+Planets+Group+Introduction+Video/1_dyv3mf3x
+- title: Seminar 1
+  url: https://samibabbar.github.io/luegroupplanets/
 
 navigation_footer:
 - title: LUE ISCI 3A12 SEMINAR 2 - Planetary Formation Group
